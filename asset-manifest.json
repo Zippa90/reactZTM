@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactZTM/static/css/main.fbe3880b.chunk.css",
+    "main.js": "/reactZTM/static/js/main.5a4cdac1.chunk.js",
+    "main.js.map": "/reactZTM/static/js/main.5a4cdac1.chunk.js.map",
+    "runtime-main.js": "/reactZTM/static/js/runtime-main.e2d9da34.js",
+    "runtime-main.js.map": "/reactZTM/static/js/runtime-main.e2d9da34.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/reactZTM/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3b67e49f.chunk.js": "/reactZTM/static/js/2.3b67e49f.chunk.js",
+    "static/js/2.3b67e49f.chunk.js.map": "/reactZTM/static/js/2.3b67e49f.chunk.js.map",
+    "static/js/3.023a04a4.chunk.js": "/reactZTM/static/js/3.023a04a4.chunk.js",
+    "static/js/3.023a04a4.chunk.js.map": "/reactZTM/static/js/3.023a04a4.chunk.js.map",
+    "index.html": "/reactZTM/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/reactZTM/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.fbe3880b.chunk.css.map": "/reactZTM/static/css/main.fbe3880b.chunk.css.map",
+    "static/js/2.3b67e49f.chunk.js.LICENSE.txt": "/reactZTM/static/js/2.3b67e49f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactZTM/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2d9da34.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3b67e49f.chunk.js",
+    "static/css/main.fbe3880b.chunk.css",
+    "static/js/main.5a4cdac1.chunk.js"
+  ]
+}
